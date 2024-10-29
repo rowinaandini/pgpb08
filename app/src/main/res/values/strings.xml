@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <array name="spinner_items">
+        <item>Yogyakarta - First Class Ticket</item>
+        <item>Jakarta - First Class Ticket</item>
+        <item>Bali - Business Class Ticket</item>
+        <item>Bandung - Business Class Ticket</item>
+        <item>Surabaya - Business Class Ticket</item>
+        <item>Solo - Economy Class Ticket</item>
+        <item>Palembang - First Class Ticket</item>
+        <item>Semarang - Economy Class Ticket</item>
+        <item>Manado - First Class Ticket</item>
+        <item>Bogor - Business Class Ticket</item>
+        <item>Lombok - Business Class Ticket</item>
+        <item>Pangkalan Bun - Economy Class Ticket</item>
+    </array>
+</resources>
